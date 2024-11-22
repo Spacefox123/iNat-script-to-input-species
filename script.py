@@ -59,60 +59,6 @@ invasive_plants = {
     "Impatiens glandulifera": "Žlezava nedotika"
 }
 
-# Creating a Python dictionary from the provided list
-species_in_inaturalist = {
-    "Acacia saligna": "Vrbasta Akacija",
-    "Acer negundo": "Amerikanski Javor",
-    "Ailanthus altissima": "Veliki Pajesen",
-    "Alternanthera philoxeroides": None,
-    "Ambrosia artemisiifolia": "Pelinolistna Žvrklja",
-    "Andropogon virginicus": "Kompleks",
-    "Asclepias syriaca": "Sirska Svilnica",
-    "Baccharis halimifolia": None,
-    "Berberis thunbergii": "Thunbergov Češmin",
-    "Buddleja davidii": "Davidova Budleja",
-    "Cabomba caroliniana": None,
-    "Cardiospermum grandiflorum": None,
-    "Cenchrus setaceus": None,
-    "Cortaderia jubata": None,
-    "Ehrharta calycina": None,
-    "Elodea canadensis": "Vodna Kuga",
-    "Elodea nuttallii": None,
-    "Erigeron annuus": "Enoletna Suholetnica",
-    "Gunnera tinctoria": None,
-    "Helianthus tuberosus": "Topinambur",
-    "Heracleum mantegazzianum": "Kompleks",
-    "Heracleum persicum": None,
-    "Heracleum sosnowskyi": None,
-    "Humulus scandens": None,
-    "Hydrocotyle ranunculoides": None,
-    "Impatiens glandulifera": "Žlezava Nedotika",
-    "Lagarosiphon major": None,
-    "Lespedeza cuneata": None,
-    "Ludwigia grandiflora": None,
-    "Ludwigia peploides": None,
-    "Lupinus polyphyllus": "Mnogolistni Volčji Bob",
-    "Lygodium japonicum": None,
-    "Lysichiton americanus": None,
-    "Microstegium vimineum": None,
-    "Myriophyllum aquaticum": None,
-    "Myriophyllum heterophyllum": None,
-    "Neltuma juliflora": None,
-    "Parthenium hysterophorus": None,
-    "Phytolacca americana": "Navadna Barvilnica",
-    "Pistia stratiotes": None,
-    "Pontederia crassipes": None,
-    "Reynoutria japonica": "Japonski Dresnik",
-    "Rhus typhina": "Octovec",
-    "Robinia pseudoacacia": "Robinija",
-    "Rudbeckia fulgida var. speciosa": None,
-    "Salvinia molesta": None,
-    "Solidago gigantea": "Orjaška Zlata Rozga",
-    "Spiraea japonica": None,
-    "Triadica sebifera": None
-}
-
-
 print(len(invasive_plants))
 
 '''
